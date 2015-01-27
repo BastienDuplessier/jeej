@@ -24,6 +24,7 @@ Some random answer.
 
 You need :
 - SFML : A C++ library (http://www.sfml-dev.org/)
+       - Version 2.1
        - Install CMake
        - Install Boost (https://svn.boost.org/trac/boost/wiki/CMakeConfigAndBuild)
 
