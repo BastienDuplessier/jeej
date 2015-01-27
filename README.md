@@ -33,4 +33,4 @@ You need :
 You can check this, it explains how to : https://github.com/JoeDralliam/Ocsfml/wiki/Use-Ocsfml
 
 #### I got some weird messages like "Error: Error on dynamically loaded library: [...]: cannot open shared object file: No such file or directory
-If it's related to SFML, check if you LD includes the SFML libraries. If not, add "include {SFML_PATH}/lib" into the /etc/ld.so.conf file. Then run ldconfig as super-user.
+If it's related to SFML, check if LD includes the SFML libraries. If not, add "include {SFML_PATH}/lib" into the /etc/ld.so.conf file. Then run ldconfig as super-user.
